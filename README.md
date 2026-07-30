@@ -22,4 +22,4 @@ This project is a Power BI dashboard created to analyze and visualize the Blinki
 
 ## Project Documentation
 A detailed project report is available here
-[📄 View Project Report](Blinkit Sales Dashboard using PowerBI report.pdf)
+[📄 View Project Report](Blinkit sales Dashboard using PowerBI report.docx)
