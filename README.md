@@ -19,6 +19,7 @@ This project is a Power BI dashboard created to analyze and visualize the Blinki
 
 ## Dataset
 - Blinkit Sales Dataset
+- https://www.kaggle.com/datasets/architgoel29/blinkit-dashboard
 
 ## Author
 **Honey Binoy**
