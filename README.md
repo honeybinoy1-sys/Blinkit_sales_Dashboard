@@ -4,7 +4,7 @@
 This project is a Power BI dashboard built using the Blinkit Dashboard dataset from Kaggle. The dashboard looks at sales performance across products and outlets and also includes product visibility, ratings and advanced sales analysis.
 
 ## Dataset
-Source: Kaggle – Blinkit Dashboard
+Source: Kaggle – Blinkit Dashboard:
 https://www.kaggle.com/datasets/architgoel29/blinkit-dashboard
 The dataset contains product and outlet-related fields such as:
 Item Type
